@@ -21,7 +21,7 @@
 
 ## License
 
-This project is licensed under the [BSD 3-Clause License](LICENSE). Use of this model requires proper citation of our paper.
+This project is licensed under the [BSD 3-Clause License](LICENSE). Use of this model requires proper citation of our paper.</br>
 "Redistribution and use, with or without modification, are permitted provided that the following conditions are met: Any publication or software which uses this model must cite the following paper: Nadia, A., Nuruzzaman, M., Nomani, K.M.S., Billal, M.M. (2025). A Bone Fracture Detection Using CNN Model. In: Bennour, A., Bouridane, A., Almaadeed, S., Bouaziz, B., Edirisinghe, E. (eds) Intelligent Systems and Pattern Recognition. ISPR 2024. Communications in Computer and Information Science, vol 2305. Springer, Cham. https://doi.org/10.1007/978-3-031-82156-1_1"
 
 ## Cite this Paper:
