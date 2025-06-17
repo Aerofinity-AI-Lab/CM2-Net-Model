@@ -1,0 +1,22 @@
+
+---
+
+### 🧾 3. **CITATION.cff File**
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this model, please cite our paper."
+title: "A Bone Fracture Detection Using CNN Model"
+authors:
+  - family-names: Nadia
+    given-names: A.
+  - family-names: Nuruzzaman
+    given-names: M.
+  - family-names: Nomani
+    given-names: K.M.S.
+  - family-names: Billal
+    given-names: M.M.
+date-released: 2025-03-05
+doi: 10.1007/978-3-031-82156-1_1
+url: https://github.com/Aerofinity-AI-Lab/CM2-Net-Model/
+version: 1.0.0
